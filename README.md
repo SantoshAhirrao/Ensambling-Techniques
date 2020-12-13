@@ -2,7 +2,7 @@
 
 ## Using Ensembling Techniques on Hepatitis dataset
 
-# MODEL BUILDING
+### MODEL BUILDING
 A. SVM
 
 B. Random Forest
